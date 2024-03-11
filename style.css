@@ -259,7 +259,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 5px;
+    padding-top: 20px;
     padding-bottom: 30px;
     gap: 830px;
 }
